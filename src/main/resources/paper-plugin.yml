@@ -1,0 +1,7 @@
+name: SimonSays
+version: '1.0'
+main: cho.info.simonSays.SimonSays
+api-version: '1.21'
+prefix: System
+load: STARTUP
+authors: [ HamburgBigJ ]
